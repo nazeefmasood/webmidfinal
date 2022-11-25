@@ -1,0 +1,34 @@
+.left-card-container{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.left-card-hr{
+    margin: 10px 0;
+    border: 0;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    height: 3px;
+}
+.left-card-icon{
+    font-size: 20px;
+}
+.left-card-details{
+    display: flex;
+    flex-direction: column;
+}
+.left-card-text-main{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    margin: 2px 0;
+}
+.left-card-text, .left-card-icon{
+    font-size: 0.9rem;
+    font-weight: 600;
+}

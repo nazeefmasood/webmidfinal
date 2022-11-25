@@ -1,0 +1,19 @@
+.new-left-card-container{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.teams-main{
+    display: flex;
+    flex-direction: column;
+}
+.teams-main .team-1{
+    display: flex;
+}
+
+.text{
+    margin-left: 5px;
+}

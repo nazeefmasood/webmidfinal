@@ -1,0 +1,17 @@
+.footer-container{
+    width: 250px;
+    margin: 0 20px;
+}
+.foot-sectCategory{
+    display: block;
+}
+.foot-copy{
+    background-color: white;
+    text-align: center;
+    font-weight: 600;
+}
+.link{
+    color: black;
+    display: block;
+    text-decoration: none;
+}

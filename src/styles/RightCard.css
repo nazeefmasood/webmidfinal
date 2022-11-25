@@ -1,0 +1,47 @@
+.right-card-container{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.teams-main{
+    display: flex;
+    flex-direction: column;
+}
+.teams-main .team-1{
+    display: flex;
+    justify-content: space-between;
+}
+.match-details h3, .match-details h2{
+    margin: 5px;
+}
+.right-card-t-text{
+    text-transform: uppercase;
+}
+.live-Status{
+    margin-bottom: 10px;
+    color: red;
+}
+.team-2{
+    margin-top: -10px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    font-size: 0.8rem;
+}
+.team-1{
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+.right-hr{
+    margin: 10px 0;
+    border: 0;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    height: 2px;
+}
+.chose-to-bat{
+    color:#808080	;
+}

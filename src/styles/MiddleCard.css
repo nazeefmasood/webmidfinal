@@ -1,0 +1,50 @@
+.middle-card-container{
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.m-Sec-1{
+    border-radius: 20px;
+    background-color: black;
+}
+.img-lrg-container img{
+    overflow: hidden;
+    width: 100%;
+    height: 100px;
+    object-fit: fill;
+    margin: 0;
+}
+.card-sec-text-main{
+    padding: 5px 10px;;
+    background-color: black;
+    margin-bottom: 2px;
+    border-radius: 20px;
+}
+.card-sec-text-main h1, .card-sec-text-main p{
+    color: azure;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+.m-Sec-2{
+    display: flex;
+    padding: 10px;
+}
+
+
+.m-top-text{
+    font-size: 1rem;
+    margin: 5px;
+    padding-left: 10px;
+}
+.card-sec-text-main{
+    font-size: 0.6rem;
+}
+.btnDel{
+    width: 60px;
+    height: 30px;
+}
